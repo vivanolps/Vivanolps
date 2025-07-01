@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=440&lines=Olá%2C+eu+sou+a+Evelyn+Lima!;Desenvolvedora+Front-end+em+formação+💻;Seja+bem-vindo(a)+ao+meu+GitHub!+🧡" alt="Typing SVG" />
 </h3>
 
-<!-- GIF CENTRAL -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
-</p>
-
 <!-- VISITAS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivanolps&style=flat&color=orange" alt="vivanolps" />
@@ -65,14 +60,6 @@ Aqui no meu GitHub compartilho tudo que estou aprendendo e criando com dedicaç�
   <a href="mailto:vinhahh.3000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vinhahh.3000@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/vivanolps/vivanolps/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
