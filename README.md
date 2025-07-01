@@ -1,7 +1,4 @@
-<!-- HEADER COM TÍTULO ANIMADO -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=440&lines=Olá%2C+eu+sou+a+Evelyn+Lima!;Desenvolvedora+Front-end+em+formação+💻;Seja+bem-vindo(a)+ao+meu+GitHub!+🧡" alt="Typing SVG" />
-</h3>
+
 
 <!-- VISITAS -->
 <p align="center">
